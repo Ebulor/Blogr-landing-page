@@ -311,6 +311,9 @@ footer {
   text-decoration: underline;
 }
 @media (min-width: 900px) {
+  header {
+    padding: 40px 80px;
+  }
   .header-nav {
     top: 0;
     display: flex;
